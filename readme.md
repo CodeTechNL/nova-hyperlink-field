@@ -9,5 +9,5 @@ Hyperlink::make('Field name', 'property')
     ->target('_blank')
 ```
 
-- [] Update readme and how to install
-- [] Add edit option for the url
+- [ ] Update readme and how to install
+- [ ] Add edit option for the url
