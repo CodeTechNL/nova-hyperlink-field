@@ -1,9 +1,7 @@
 let mix = require('laravel-mix')
 
 require('./nova.mix')
-mix.options({
-    legacyNodePolyfills: true
-});
+
 mix
   .setPublicPath('dist')
   .js('resources/js/field.js', 'js')

@@ -13,7 +13,7 @@ class Hyperlink extends Field
      *
      * @var string
      */
-    public $component = 'codetech-hyperlink';
+    public $component = 'hyperlink';
 
     /**
      * @return Hyperlink
